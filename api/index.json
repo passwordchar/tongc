@@ -3,79 +3,79 @@
 	"data": {
     "swiperList": [{
         "id": "0001",
-        "imgUrl": "http://pic5.40017.cn/02/001/96/64/rBLkCFtyP7GATF8iAAC41HlX-cM247.jpg"
+        "imgUrl": "https://pic5.40017.cn/02/001/96/64/rBLkCFtyP7GATF8iAAC41HlX-cM247.jpg"
     }, {
         "id": "0002",
-        "imgUrl": "http://pic5.40017.cn/02/001/9b/e9/rBANDFt2PemADLDtAADCQsWAn9k816.jpg"
+        "imgUrl": "https://pic5.40017.cn/02/001/9b/e9/rBANDFt2PemADLDtAADCQsWAn9k816.jpg"
     }, {
         "id": "0003",
-        "imgUrl": "http://pic4.40017.cn/index/slide/2017/02/11/21/Upv1S6.jpg"
+        "imgUrl": "https://pic4.40017.cn/index/slide/2017/02/11/21/Upv1S6.jpg"
     }, {
         "id": "0004",
-        "imgUrl": "http://pic5.40017.cn/01/001/6a/24/rBLkBVtVkGSANknUAAC8vdyBvOA109.jpg"
+        "imgUrl": "https://pic5.40017.cn/01/001/6a/24/rBLkBVtVkGSANknUAAC8vdyBvOA109.jpg"
     }, {
         "id": "0005",
-        "imgUrl": "http://pic5.40017.cn/02/000/6a/4e/rBLkCFtVpV6AEv6MAAC_HbYabSI164.jpg"
+        "imgUrl": "https://pic5.40017.cn/02/000/6a/4e/rBLkCFtVpV6AEv6MAAC_HbYabSI164.jpg"
     }],
     "clearfixList": [{
         "id": "0001",
-        "imgUrl": "http://pic5.40017.cn/01/000/5f/a6/rBLkBVqozbiAB7whAAABMV8dFnU373.png",
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/a6/rBLkBVqozbiAB7whAAABMV8dFnU373.png",
         "desc": "汽车票·船票"
     }, {
         "id": "0002",
-        "imgUrl": "http://pic5.40017.cn/01/001/5f/aa/rBLkBVqoz5WARL6sAAACl0BdhXo397.png",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/aa/rBLkBVqoz5WARL6sAAACl0BdhXo397.png",
         "desc": "周边自由行"
     }, {
         "id": "0003",
-        "imgUrl": "http://pic5.40017.cn/01/001/5f/a7/rBLkBVqozh6AXAIqAAABODWYrvg233.png",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/a7/rBLkBVqozh6AXAIqAAABODWYrvg233.png",
         "desc": "周边跟团游"
     }, {
         "id": "0004",
-        "imgUrl": "http://pic5.40017.cn/01/001/5f/34/rBANC1qoz0yAN8dqAAABQG6IdnQ608.png",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/34/rBANC1qoz0yAN8dqAAABQG6IdnQ608.png",
         "desc": "国内游"
     }, {
         "id": "0005",
-        "imgUrl": "http://pic5.40017.cn/01/000/5f/35/rBANC1qoz5-AZ1AHAAABu7UlTDA659.png",
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/35/rBANC1qoz5-AZ1AHAAABu7UlTDA659.png",
         "desc": "邮轮"
     }, {
         "id": "0006",
-        "imgUrl": "http://pic5.40017.cn/01/000/5f/ab/rBLkBlqo0GKARZ0jAAACzlV1vD0332.png",
+        "imgUrl": "https://pic5.40017.cn/01/000/5f/ab/rBLkBlqo0GKARZ0jAAACzlV1vD0332.png",
         "desc": "出境游"
     }, {
         "id": "0007",
-        "imgUrl": "http://pic5.40017.cn/02/000/5f/b2/rBLkCFqo0GKAV-H4AAACCoRioMc656.png",
+        "imgUrl": "https://pic5.40017.cn/02/000/5f/b2/rBLkCFqo0GKAV-H4AAACCoRioMc656.png",
         "desc": "海外玩乐"
     }, {
         "id": "0008",
-        "imgUrl": "http://pic5.40017.cn/01/001/5f/ac/rBLkBVqo0MOAHG9GAAABfaEIhkw016.png",
+        "imgUrl": "https://pic5.40017.cn/01/001/5f/ac/rBLkBVqo0MOAHG9GAAABfaEIhkw016.png",
         "desc": "签证"
     }, {
         "id": "0009",
-        "imgUrl": "http://pic5.40017.cn/02/000/5f/b3/rBLkCFqo0MOANBZZAAACayFwVMA823.png",
+        "imgUrl": "https://pic5.40017.cn/02/000/5f/b3/rBLkCFqo0MOANBZZAAACayFwVMA823.png",
         "desc": "全球WiFi"
     }, {
         "id": "0010",
-        "imgUrl": "http://pic5.40017.cn/02/001/5f/b3/rBLkCFqo0MOAazKPAAABDjXiKXA355.png",
+        "imgUrl": "https://pic5.40017.cn/02/001/5f/b3/rBLkCFqo0MOAazKPAAABDjXiKXA355.png",
         "desc": "全部服务"
     }],
     "recommendList": [{
         "id": "0001",
-        "imgUrl": "http://pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
+        "imgUrl": "https://pic4.40017.cn/poi/2017/03/16/16/wony5c_300x200_00.jpg",
         "title": "古镇",
         "desc": "今年最火的10大古镇"
     }, {
         "id": "0002",
-        "imgUrl": "http://pic5.40017.cn/01/000/07/9e/rBLkBlnoZ5CAd5s8AAGoaencbUU275_300x200_00.jpg",
+        "imgUrl": "https://pic5.40017.cn/01/000/07/9e/rBLkBlnoZ5CAd5s8AAGoaencbUU275_300x200_00.jpg",
         "title": "海岛",
         "desc": "适合秋冬出海的海岛"
     }, {
         "id": "0003",
-        "imgUrl": "http://pic5.40017.cn/01/001/04/14/rBLkBVnnEiaADQysAAD4v4j0QKY062_300x200_00.jpg",
+        "imgUrl": "https://pic5.40017.cn/01/001/04/14/rBLkBVnnEiaADQysAAD4v4j0QKY062_300x200_00.jpg",
         "title": "景点",
         "desc": "中国8大经典自驾线路"
     }, {
         "id": "0004",
-        "imgUrl": "http://pic4.40017.cn/poi/2016/09/28/20/jfN5UH_300x200_00.jpg",
+        "imgUrl": "https://pic4.40017.cn/poi/2016/09/28/20/jfN5UH_300x200_00.jpg",
         "title": "盘点",
         "desc": "10月旅游目的地推荐"
     }],
