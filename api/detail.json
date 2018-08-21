@@ -1,0 +1,25 @@
+{
+    "ret": true,
+    "data":{
+        "singhtName":"周庄",
+        "bannerImg": ["https://pic4.40017.cn/scenery/destination/2016/07/13/15/hEoTUK_640x320_00.jpg"],
+        "gallaryImgs":["https://pic4.40017.cn/scenery/destination/2016/07/13/15/hEoTUK_640x320_00.jpg","https://pic4.40017.cn/scenery/destination/2016/07/13/15/hEoTUK_640x320_00.jpg"],
+        "categoryList":[{
+            "title":"成人票",
+            "children":[{
+                "title":"成人票",
+                "children":[{
+                    "title":"成人票-某景点销售"
+                }]
+            },{
+               "title":"成人票[2人]"
+                }]
+            },{
+              "title":"学生票"
+            },{
+              "title":"儿童票"
+            },{
+              "title":"特惠票"
+            }]
+    }
+}
